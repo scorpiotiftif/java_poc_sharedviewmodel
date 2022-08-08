@@ -4,7 +4,7 @@
 POC To instanciate and use a shared view model into JAVA from activity to fragments
 
 ## Demo
-![Watch Logs video](./docs/Log_from_running_app.m4v)
+![Watch Logs video](./docs/Log_from_running_app.gif)
 
 ## Authors
 
